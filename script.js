@@ -1,10 +1,10 @@
 const colors = [
-  'D1FAFF',
-  '9BD1E5',
-  '6A8EAE',
-  'F6D4BA',
-  'FEFADC',
-  'F3B391'
+  "#D1FAFF",
+  "#9BD1E5",
+  "#6A8EAE",
+  "#F6D4BA",
+  "#FEFADC",
+  "#F3B391"
 ];
 
 function handleOnClick() {
